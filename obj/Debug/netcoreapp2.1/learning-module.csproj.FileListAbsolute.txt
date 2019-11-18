@@ -1,0 +1,14 @@
+C:\Hardik\Project Related\Test\learning-module\bin\Debug\netcoreapp2.1\learning-module.deps.json
+C:\Hardik\Project Related\Test\learning-module\bin\Debug\netcoreapp2.1\learning-module.runtimeconfig.json
+C:\Hardik\Project Related\Test\learning-module\bin\Debug\netcoreapp2.1\learning-module.runtimeconfig.dev.json
+C:\Hardik\Project Related\Test\learning-module\bin\Debug\netcoreapp2.1\learning-module.dll
+C:\Hardik\Project Related\Test\learning-module\bin\Debug\netcoreapp2.1\learning-module.pdb
+C:\Hardik\Project Related\Test\learning-module\obj\Debug\netcoreapp2.1\learning-module.csprojAssemblyReference.cache
+C:\Hardik\Project Related\Test\learning-module\obj\Debug\netcoreapp2.1\learning-module.csproj.CoreCompileInputs.cache
+C:\Hardik\Project Related\Test\learning-module\obj\Debug\netcoreapp2.1\learning-module.AssemblyInfoInputs.cache
+C:\Hardik\Project Related\Test\learning-module\obj\Debug\netcoreapp2.1\learning-module.AssemblyInfo.cs
+C:\Hardik\Project Related\Test\learning-module\obj\Debug\netcoreapp2.1\learning-module.dll
+C:\Hardik\Project Related\Test\learning-module\obj\Debug\netcoreapp2.1\learning-module.pdb
+C:\Hardik\Project Related\Test\learning-module\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Hardik\Project Related\Test\learning-module\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+C:\Hardik\Project Related\Test\learning-module\bin\Debug\netcoreapp2.1\learning-module.dll.config
