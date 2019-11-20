@@ -44,12 +44,12 @@ namespace learning_module
 
             await this.client.CreateDocumentCollectionIfNotExistsAsync(UriFactory.CreateDatabaseUri("Users"), new DocumentCollection { Id = "WebCustomers" });
 
-            Console.WriteLine("Database and collection validation complete");
+            Console.WriteLine("Database and collection validation complete123");
 
             User yanhe = new User
             {
                 Id = "1",
-                UserId = "yanhe",
+                UserId = "yanhe123",
                 LastName = "He",
                 FirstName = "Yan",
                 Email = "yanhe@contoso.com",
@@ -119,13 +119,13 @@ namespace learning_module
                 }
             };
 
-            // await this.CreateUserDocumentIfNotExists("Users", "WebCustomers", nelapin);
+            await this.CreateUserDocumentIfNotExists("Users", "WebCustomers", nelapin);
             // yanhe.LastName = "Suh";
             // await this.ReplaceUserDocument("Users", "WebCustomers", yanhe);
             // await this.ReadUserDocument("Users", "WebCustomers", yanhe);
             // this.ExecuteSimpleQuery("Users", "WebCustomers");
             // await this.DeleteUserDocument("Users", "WebCustomers", yanhe);
-            await this.RunStoredProcedure("Users", "WebCustomers", yanhe);
+            //await this.RunStoredProcedure("Users", "WebCustomers", yanhe);
         }
 
         public class User
